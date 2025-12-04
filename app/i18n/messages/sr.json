@@ -1,11 +1,11 @@
 {
   "Home": {
-    "title": "Здраво из сервер компоненте",
-    "description": "Ово је страница на српском."
+    "title": "Zdravo iz server komponente",
+    "description": "Ovo je stranica na srpskom."
   },
   "Prevod": {
-    "about": "О нама",
-    "home": "Почетна"
+    "title": "Stranica za prevod",
+    "description": "Ovo je primer prevoda na srpskom."
   }
 }
 

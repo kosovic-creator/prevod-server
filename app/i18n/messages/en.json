@@ -4,9 +4,8 @@
     "description": "This is an English page."
   },
   "Prevod": {
-
-    "about": "About",
-    "home": "Home"
+    "title": "Translation page",
+    "description": "This is a translation example in English."
   }
 }
 
