@@ -2,6 +2,11 @@
   "Home": {
     "title": "Hello from server component",
     "description": "This is an English page."
+  },
+  "Prevod": {
+
+    "about": "About",
+    "home": "Home"
   }
 }
 
