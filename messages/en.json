@@ -1,0 +1,25 @@
+{
+  "Home": {
+    "title": "Hello from server component",
+    "description": "This is an English page."
+  },
+  "Nav": {
+    "home": "Home",
+    "about": "About",
+    "sr": "Serbian",
+    "en": "English"
+  },
+  "Prevod": {
+    "title": "Translation page",
+    "description": "This is a translation example in English."
+  },
+  "Dynamic": {
+    "title": "Dynamic page: {slug}",
+    "description": "This is an example of a dynamic localized page in English."
+  },
+  "Prevod2": {
+    "title": "Translation 2 page",
+    "description": "This is a translation 2 example in English."
+  }
+}
+
